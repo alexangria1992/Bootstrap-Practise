@@ -10,3 +10,15 @@
 .mycontainer{
     background-color: aqua;
 }
+
+#top-header {
+    border-bottom: 1px solid silver;
+    
+
+}
+
+#top-header a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
